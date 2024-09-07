@@ -30,7 +30,7 @@ def print_with_style(text, style="bold"):
 
 def welcome_message():
     print_with_style("********************************************", "blue")
-    print_with_style("       Welcome to Ruaad - MetaInjector       ", "bold")
+    print_with_style("       Welcome to MetaInjector              ", "bold")
     print_with_style("********************************************", "blue")
     print("A tool for security testing via image metadata injection.")
     print_with_style("By: absholi7ly (X.com @absholi7ly)", "underline")
